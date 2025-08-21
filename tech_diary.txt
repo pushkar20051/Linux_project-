@@ -1,0 +1,26 @@
+My Linux Tech Diary -
+
+Name: Pushkar Kumar
+Roll No: 123456
+College: SRM IST
+
+Favorite Linux Commands -
+1. ls   - List files and directories
+2. pwd  - Show current working directory
+3. cat  - Display contents of a file
+4. nano - Edit a file inside the terminal
+5. zip  - Compress files into a zip archive
+
+Logbook -
+$ ls
+$ mkdir project
+$ cd project
+$ touch file.txt
+$ echo "Hello Linux" >> file.txt
+
+Motivation -
+   /\_/\
+  ( o.o )
+   > ^ <  
+
+"Keep learning, keep growing!"
