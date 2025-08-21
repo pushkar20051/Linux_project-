@@ -1,0 +1,6 @@
+Command Log -
+$ ls
+$ mkdir project
+$ cd project
+$ touch file.txt
+$ echo "Hello Linux" >> file.txt
